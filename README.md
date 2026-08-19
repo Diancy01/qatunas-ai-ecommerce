@@ -14,6 +14,16 @@
 
 ---
 
+## 📜 Resolución Rectoral Oficial — UPLA 2026
+
+<div align="center">
+  <img src="resolucion_rectoral_upla_009_2026.jpg" width="560" alt="Resolución Rectoral Nº 009-2026-R-UPLA — QATUNAS" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <br>
+  <sub>📄 <strong>Resolución Rectoral Nº 009-2026-R-UPLA</strong> emitida por la Universidad Peruana Los Andes (06 de Enero de 2026)</sub>
+</div>
+
+---
+
 ## 📌 Descripción del Proyecto
 
 **QATUNAS** es una plataforma de comercio electrónico diseñada para pequeñas y medianas empresas comerciales, orientada a maximizar la conversión y optimizar la rotación de inventarios mediante la integración de **algoritmos predictivos y modelos de Inteligencia Artificial**.
@@ -70,7 +80,7 @@ graph TD
 
 ---
 
-## 👨‍💻 Autor & Desarrollador
+## 👨‍💻 Integrante & Desarrollador
 
 * **Exar Williams Atao Paucar**
 * 🌐 GitHub: [@Diancy01](https://github.com/Diancy01)
