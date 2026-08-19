@@ -17,8 +17,8 @@
 ## 📜 Resolución Rectoral Oficial — UPLA 2026
 
 <div align="center">
-  <img src="resolucion_rectoral_upla_009_2026.jpg" width="560" alt="Resolución Rectoral Nº 009-2026-R-UPLA — QATUNAS" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-  <br>
+  <img src="resolucion_rectoral_upla_009_2026.jpeg" width="580" alt="Resolución Rectoral Nº 009-2026-R-UPLA — QATUNAS" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <br><br>
   <sub>📄 <strong>Resolución Rectoral Nº 009-2026-R-UPLA</strong> emitida por la Universidad Peruana Los Andes (06 de Enero de 2026)</sub>
 </div>
 
